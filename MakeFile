@@ -1,0 +1,3 @@
+project:project.c
+	cc project.c -o project
+	
